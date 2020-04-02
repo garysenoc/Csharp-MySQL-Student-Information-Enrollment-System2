@@ -1,0 +1,15 @@
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\bin\Debug\FEDENROLLMENT.exe.config
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\bin\Debug\FEDENROLLMENT.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\bin\Debug\FEDENROLLMENT.pdb
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.csprojResolveAssemblyReference.cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.Form1.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.Properties.Resources.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.csproj.GenerateResource.Cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.pdb
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.MAINFORM.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.ADDSTUDENT.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.MANAGE.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.VIEW.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.BIODATA.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\FEDENROLLMENT\FEDENROLLMENT\obj\Debug\FEDENROLLMENT.ID.resources
